@@ -1,2 +1,1 @@
-# Project2
-PropertyPal
+# group-project-2
